@@ -72,5 +72,8 @@ and enables management to make **informed, data-driven decisions** regarding pro
 
 ---
 
-📎 Download Power BI File: [PBI_PROJECT.pbix](PBI%20PROJECT.pbix)
+## 📥 Download Project File
+You can download and explore the interactive Power BI dashboard here:
+
+👉 [Download Power BI File (.pbix)](./PBI%20PROJECT.pbix)
 
