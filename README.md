@@ -1,4 +1,5 @@
 #  Power BI Project – AdventureWorks Sales Analysis
+#### Interactive BI Dashboard | Sales, Profit, and Customer Insights
 
 ### 📊 Overview
 This project focuses on analyzing sales, product, and customer data of **AdventureWorks**, a retail company in the bicycle and accessories industry.  
@@ -51,6 +52,13 @@ The dashboards use a wide variety of visuals including:
 
 ---
 
+## 📂 Files Included
+- `PBI PROJECT.pbix` – Main Power BI dashboard file  
+- `README.md` – Project documentation  
+- `dashboard_preview.png` – Dashboard preview image
+
+---
+
 ## 💼 Business Value
 The dashboard provides a **comprehensive view of business performance**, identifies key trends and inefficiencies,  
 and enables management to make **informed, data-driven decisions** regarding products, customers, and overall profitability.
@@ -64,6 +72,5 @@ and enables management to make **informed, data-driven decisions** regarding pro
 
 ---
 
-⭐ **Author:** Paz Oz  
-🎓 *B.A. in Economics & Business Administration*  
-📧 [pazoz2102@gmail.com](mailto:pazoz2102@gmail.com) 
+📎 Download Power BI File: [PBI_PROJECT.pbix](PBI%20PROJECT.pbix)
+
