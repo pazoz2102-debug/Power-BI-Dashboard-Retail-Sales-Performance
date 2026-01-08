@@ -72,8 +72,8 @@ and enables management to make **informed, data-driven decisions** regarding pro
 
 ---
 
-## 📥 Download Project File
-You can download and explore the interactive Power BI dashboard here:
+## 📥 Download the Project
+You can download and explore the full interactive Power BI dashboard file here:  
+👉 [Download Power BI File (.pbix)](https://github.com/pazoz2102-debug/Power-BI-Dashboard-Retail-Sales-Performance/raw/main/PBI%20PROJECT.pbix)
 
-👉 [Download Power BI File (.pbix)](./PBI%20PROJECT.pbix)
 
