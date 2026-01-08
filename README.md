@@ -5,6 +5,10 @@ This project focuses on analyzing sales, product, and customer data of **Adventu
 The main objective was to transform raw operational data into **meaningful business insights** through data modeling, DAX calculations, and interactive dashboards.
 
 ---
+### 📸 Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
+---
 
 ## 🎯 Project Objectives
 - Import and transform data using **Power Query Editor**
